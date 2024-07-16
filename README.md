@@ -6,7 +6,7 @@ This repository provides python implementation for the paper titled "Comparative
 
 ### Citation Request
 
-Please include these citations if you plan to use this library:
+Please include these citations if you plan to use this code:
 
 ```code 
 @article{sapna2023comparative,
